@@ -10,5 +10,6 @@ spring:
       properties:
         hibernate:
           formate_sql: true
+#serverhehe
 server:
-  port: 8081
+  port: 8088
